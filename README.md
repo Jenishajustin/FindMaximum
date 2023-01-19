@@ -21,9 +21,6 @@ def max_marks(marks):
     marks.sort()
     large=marks[-1]
     return large
-
-
-
 ```
 
 ii)	# To find the maximum marks using the list method max().
@@ -61,6 +58,10 @@ def max_marks(list1):
 ### i)
 ![MODEL](1.png)
 <br>
+
+
+
+
 
 ### ii)
 ![MODEL](2.png)
